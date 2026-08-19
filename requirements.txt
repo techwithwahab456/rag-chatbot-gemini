@@ -1,9 +1,15 @@
 fastapi
 uvicorn[standard]
+
 langchain
 langchain-community
 langchain-google-genai
+
 chromadb
+faiss-cpu
+
 pypdf
-python-multipart
 python-dotenv
+python-multipart
+
+sentence-transformers
