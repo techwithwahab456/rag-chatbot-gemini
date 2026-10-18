@@ -39,6 +39,18 @@ The previous development setup used a Sentence Transformers embedding model and 
 - `POST /ask` — Submit a question and receive an AI-generated answer.
 
 The endpoints represent the previously discussed Flutter-backend integration; verify their current request and response schemas in the source code.
+##Screenshots
+<img width="572" height="1024" alt="image" src="https://github.com/user-attachments/assets/f6d4951b-9d8c-49bd-9a68-3ad8457b2546" />
+
+<img width="572" height="1024" alt="image" src="https://github.com/user-attachments/assets/60066d0a-9553-474f-9f24-9cd584e44e7f" />
+
+<img width="572" height="1024" alt="image" src="https://github.com/user-attachments/assets/3dac510a-d812-4ee0-85bd-98f64346314a" />
+
+<img width="572" height="1024" alt="image" src="https://github.com/user-attachments/assets/2c86b67a-c06c-40fa-9bfe-167dd4e5af73" />
+
+
+
+
 
 ## Why This Project?
 
